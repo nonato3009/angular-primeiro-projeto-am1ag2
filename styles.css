@@ -1,0 +1,15 @@
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  color: tomato;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: brown;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
